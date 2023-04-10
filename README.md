@@ -1,3 +1,45 @@
+confusion restaurant website clone (React project)
+
+This is a restaurant website clone created by me to describe basic restaurant website structure using react. In this project I use react library with HTML, CSS, JavaScript and Bootstrap. 
+
+In this project I created 5 pages -
+Home
+About us
+Menu
+Dish Detail
+Contact us
+
+In this project user can get the information about menu of restaurant or dishes, dishes comments or we can say feedback of dishes,
+leader information in about us page, promotion data of any dish and leader information in home page, contact us page data to contact with restaurant management.
+
+In this project i'm use following technology:
+React :
+  component :
+          class component
+          function component
+  props
+  states
+  JSX
+  react-router
+  css in react
+  form in react :
+        controlled form
+        uncontrolled form
+        
+Bootstrap : 
+    Navbar
+    Breadcrumb
+    jumbotron
+    Modal
+    Media
+    Card
+    Button
+    Container (layout)
+
+Website link : https://github.com/MayurHajare2103/React/tree/master
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
